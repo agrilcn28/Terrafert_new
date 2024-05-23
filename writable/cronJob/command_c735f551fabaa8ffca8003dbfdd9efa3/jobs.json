@@ -1,0 +1,14 @@
+[
+    {
+        "name": "command_c735f551fabaa8ffca8003dbfdd9efa3",
+        "type": "command",
+        "action": "foo:bar",
+        "environment": null,
+        "start_at": "2024-05-12 08:54:33",
+        "end_at": "2024-05-12 08:54:33",
+        "duration": "00:00:00",
+        "output": null,
+        "error": null,
+        "test_time": null
+    }
+]

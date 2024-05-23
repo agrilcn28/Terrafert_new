@@ -1,0 +1,14 @@
+[
+    {
+        "name": "shell_c9f25808c8d6fabeae1555092d641a44",
+        "type": "shell",
+        "action": "cd \/infolog",
+        "environment": null,
+        "start_at": "2024-05-12 08:56:08",
+        "end_at": "2024-05-12 08:56:09",
+        "duration": "00:00:00",
+        "output": null,
+        "error": null,
+        "test_time": null
+    }
+]

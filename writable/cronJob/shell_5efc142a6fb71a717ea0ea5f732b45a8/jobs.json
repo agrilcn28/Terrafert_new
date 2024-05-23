@@ -1,0 +1,14 @@
+[
+    {
+        "name": "shell_5efc142a6fb71a717ea0ea5f732b45a8",
+        "type": "shell",
+        "action": "cp foo bar",
+        "environment": null,
+        "start_at": "2024-05-12 08:55:42",
+        "end_at": "2024-05-12 08:55:43",
+        "duration": "00:00:00",
+        "output": null,
+        "error": null,
+        "test_time": null
+    }
+]
